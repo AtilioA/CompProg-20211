@@ -132,3 +132,4 @@ dmypy.json
 *.exe
 *.out
 *.pdb
+grafos/
